@@ -4,10 +4,10 @@
     "url":"https://magictwinsworld.github.io/template-package-listing/index.json",
     "author":{
         "email":"developer@vrchat.com",
-        "name":"VRChat",
-        "url":"https://hello.vrchat.com"
+        "name":"magictwin",
+        "url":"magictwin.net"
     },
-    "description":"Example listing of VRChat packages",
+    "description":"Im a Potato",
     "infoLink":{
         "url":"http://github.com/vrchat-community/template-package-listing",
         "text":"View on GitHub"
